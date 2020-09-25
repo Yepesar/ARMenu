@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
+  m_Name: PhillyCheese
+  m_EditorClassIdentifier: 
+  foodName: Philly Cheese de Cerdo
+  foodDescription: "Sub de 20 cms con parmesano,\r\ncerdo desmechado y cocinado\r\npor
+    6 horas, cebolla caramelizada,\r\ndoble queso americano,\r\nalioli de ajo , salsa
+    de queso azul,\r\ny en la parte de arriba un jalape\xF1o\r\nrelleno de queso cheddar
+    + Papas\r\na la francesa"
+  foodPrice: 21000
