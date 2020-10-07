@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
+  m_Name: ChicharronWingsx6
+  m_EditorClassIdentifier: 
+  foodName: "Chicharr\xF3n Wings x 6"
+  foodDescription: "6 chicharr\xF3n wings ba\xF1adas en\r\nBBQ de la casa + 1 raci\xF3n
+    de\r\npapas + zanahoria y apio +\r\nsalsa de queso azul."
+  foodPrice: 23900
+  url: https://pigasus.com.co/producto/chicharron-wings-x-6/

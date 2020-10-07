@@ -9,4 +9,5 @@ public class SO_Food : ScriptableObject
     [TextArea]
     public string foodDescription;
     public int foodPrice;
+    public string url;
 }

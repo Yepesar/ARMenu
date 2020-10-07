@@ -10,11 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
-  m_Name: PhillyCheese
+  m_Name: ChikenWingsx12
   m_EditorClassIdentifier: 
-  foodName: Philly Cheese de Cerdo
-  foodDescription: "Sub de 20 cms con parmesano,\r\ncerdo desmechado y cocinado\r\npor
-    6 horas, cebolla caramelizada,\r\ndoble queso americano,\r\nalioli de ajo , salsa
-    de queso azul,\r\ny en la parte de arriba un jalape\xF1o\r\nrelleno de queso cheddar
-    + Papas\r\na la francesa"
-  foodPrice: 21000
+  foodName: Chicken wings x12
+  foodDescription: "12 chicken wings +\r\n2 raciones de papas +\r\nzanahoria y apio
+    +\r\nsalsa de queso azul +\r\nla salsa de tu elecci\xF3n."
+  foodPrice: 36000
+  url: https://pigasus.com.co/producto/chicken-wings-x12/

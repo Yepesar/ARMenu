@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Burguers.unity
     guid: 91e712d9a677395409a723f5c38a23ba
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/PigAsusAR.unity
     guid: 843f5ff44cbecfa4895d419252db04ad
   m_configObjects: {}

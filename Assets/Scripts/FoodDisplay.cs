@@ -9,29 +9,82 @@ public class FoodDisplay : MonoBehaviour
     [SerializeField] private TextMeshProUGUI foodTitle;
     [SerializeField] private TextMeshProUGUI foodDescription;
     [SerializeField] private TextMeshProUGUI foodPrice;
-    [SerializeField] private SO_Food[] foodInfos;
-    [SerializeField] private Transform foodModels;
-
+    [SerializeField] private TMP_Dropdown categoryDropdown;
+    [Space]
+    [SerializeField] private SO_Food[] foodInfosCat1;
+    [SerializeField] private SO_Food[] foodInfosCat2;
+    [SerializeField] private SO_Food[] foodInfosCat3;
+    [SerializeField] private SO_Food[] foodInfosCat4;
+    [SerializeField] private SO_Food[] foodInfosCat5;
+    [SerializeField] private SO_Food[] foodInfosCat6;
+    [Space]
+    [SerializeField] private Transform foodModelsCat1;
+    [SerializeField] private Transform foodModelsCat2;
+    [SerializeField] private Transform foodModelsCat3;
+    [SerializeField] private Transform foodModelsCat4;
+    [SerializeField] private Transform foodModelsCat5;
+    [SerializeField] private Transform foodModelsCat6;
+    
+    private Transform foodModels;
+    private int actualCategory = 0;
     private int index = 0;
+    private SO_Food[] foodInfos;
 
     private void Start()
     {
+        foodInfos = foodInfosCat1;
+        foodModels = foodModelsCat1;
         Display();
     }
 
-    public void Update()
+    public void ChangeCategory()
     {
-        if (Input.GetKeyDown(KeyCode.D))
+        actualCategory = categoryDropdown.value;
+
+        if (actualCategory == 0)
         {
-            Next();
+            foodInfos = foodInfosCat1;
+            foodModels = foodModelsCat1;
+        }
+        else if (actualCategory == 1)
+        {
+            foodInfos = foodInfosCat2;
+            foodModels = foodModelsCat2;
+        }
+        else if (actualCategory == 2)
+        {
+            foodInfos = foodInfosCat3;
+            foodModels = foodModelsCat3;
+        }
+        else if (actualCategory == 3)
+        {
+            foodInfos = foodInfosCat4;
+            foodModels = foodModelsCat4;
+        }
+        else if (actualCategory == 4)
+        {
+            foodInfos = foodInfosCat5;
+            foodModels = foodModelsCat5;
+        }
+        else if (actualCategory == 5)
+        {
+            foodInfos = foodInfosCat6;
+            foodModels = foodModelsCat6;
         }
 
-        if (Input.GetKeyDown(KeyCode.A))
-        {
-            Prev();
-        }
+        //Apagar imgs
+        TurnOfImages(foodModelsCat1);
+        TurnOfImages(foodModelsCat2);
+        TurnOfImages(foodModelsCat3);
+        TurnOfImages(foodModelsCat4);
+        TurnOfImages(foodModelsCat5);
+        TurnOfImages(foodModelsCat6);
+
+        //Reset
+        index = -1;
+        Next();
     }
-
+    
     public void Next()
     {
         index++;
@@ -71,5 +124,19 @@ public class FoodDisplay : MonoBehaviour
         foodTitle.text = foodInfos[index].foodName;
         foodDescription.text = foodInfos[index].foodDescription;
         foodPrice.text = foodInfos[index].foodPrice + "";
+    }
+
+    private void TurnOfImages(Transform parent)
+    {
+        for (int i = 0; i < parent.childCount; i++)
+        {
+            parent.GetChild(i).gameObject.SetActive(false);
+        }
+    }
+
+    public void Order()
+    {      
+        string url = foodInfos[index].url;
+        GlobalURL.globalURL.GetCall(url);
     }
 }

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
-  m_Name: ChicharronWings
+  m_Name: ChikenWingsx6
   m_EditorClassIdentifier: 
-  foodName: "Chicharr\xF3n wings x12"
-  foodDescription: "12 chicharr\xF3n wings ba\xF1adas en BBQ de la casa\r\n+ 2 raciones
-    de papas + 2 mazorcas +\r\nqueso papialpa + salsa de queso azul +\r\nzanahoria
-    y apio."
-  foodPrice: 55000
+  foodName: Chicken wings x6
+  foodDescription: "6 chicken wings + 1 raci\xF3n de\r\npapas + zanahoria y apio +\r\nsalsa
+    de queso azul + salsa\r\nde tu elecci\xF3n"
+  foodPrice: 19400
+  url: https://pigasus.com.co/producto/chicken-wings-x6/

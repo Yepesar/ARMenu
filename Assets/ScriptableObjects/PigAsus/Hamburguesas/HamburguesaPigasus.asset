@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
+  m_Name: HamburguesaPigasus
+  m_EditorClassIdentifier: 
+  foodName: Hamburguesa Pigasus
+  foodDescription: "Pan artesanal con queso parmesano\r\n+ carne de 166 gr de res
+    y cerdo +\r\n100gr de crujiente chicharr\xF3n ba\xF1ado\r\nen nuestra salsa de
+    la casa +\r\nqueso cheddar.\r\n\r\n"
+  foodPrice: 21000
+  url: https://pigasus.com.co/producto/hamburguesa-pigasus/
