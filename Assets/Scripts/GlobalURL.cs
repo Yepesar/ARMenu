@@ -6,6 +6,7 @@ using UnityEngine;
 public class GlobalURL : MonoBehaviour
 {
     public int index = 0;
+    public int max;
 
     public static GlobalURL globalURL;
 
@@ -24,7 +25,7 @@ public class GlobalURL : MonoBehaviour
     public void GetCall(string url)
     {
         index++;
-        if (index >= 3)
+        if (index >= max)
         {
             index = 0;
             OpenURL(url);

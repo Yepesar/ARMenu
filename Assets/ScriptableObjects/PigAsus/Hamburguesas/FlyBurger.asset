@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
+  m_Name: FlyBurger
+  m_EditorClassIdentifier: 
+  foodName: 'Fly Burger '
+  foodDescription: "Pan artesanal de queso parmesano +\r\npollo crispy + queso papialpa
+    asado+\r\ntomate asado+ albahaca + tocineta\r\ncrujiente y alioli de ajo acompa\xF1ado
+    con\r\npapas de su elecci\xF3n + una chicken wing\r\ncon salsa a su elecci\xF3n."
+  foodPrice: 26900
+  url: https://pigasus.com.co/producto/fly-burger/
