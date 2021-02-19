@@ -2371,32 +2371,32 @@ PrefabInstance:
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
@@ -2421,22 +2421,22 @@ PrefabInstance:
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 2311
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6017019981685602539, guid: 9c9d3dce6768e1f4283d604adc7d195c,
         type: 3}
