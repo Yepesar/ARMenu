@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour
 {
-    [SerializeField] private float delay = 2f;
+    [SerializeField] private float delay = 0.8f;
     [SerializeField] private Animator fade;
 
     private int index = 0;
