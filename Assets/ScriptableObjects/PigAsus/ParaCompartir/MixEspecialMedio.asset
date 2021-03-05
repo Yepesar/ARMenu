@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
+  m_Name: MixEspecialMedio
+  m_EditorClassIdentifier: 
+  foodName: "Mix especial medio \u2013 2 personas"
+  foodDescription: "1 chicharr\xF3n del chef\r\n\r6 chicharr\xF3n wings pigasus\r\n\r2
+    mazorcas pigasus\r\n\r3 arepitas con chicharr\xF3n\r\n\r5 quesos papialpa\r\n\r1
+    papa casco\r\n\r1 papa francesa"
+  foodPrice: 69000
+  url: https://pigasus.com.co/producto/mix-especial-medio-2-personas/

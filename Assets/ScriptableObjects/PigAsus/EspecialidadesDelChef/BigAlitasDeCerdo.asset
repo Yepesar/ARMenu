@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
+  m_Name: BigAlitasDeCerdo
+  m_EditorClassIdentifier: 
+  foodName: Big alita de cerdo
+  foodDescription: "Deliciosa carne de cerdo\r\nba\xF1ada en salsa BBQ de la\r\ncasa
+    +1 raci\xF3n de papas\r\n+ 2 mazorcas + salsa de\r\nqueso azul"
+  foodPrice: 28000
+  url: https://pigasus.com.co/producto/big-alita-de-cerdo/

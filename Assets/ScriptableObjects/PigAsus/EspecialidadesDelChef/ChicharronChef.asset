@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
+  m_Name: ChicharronChef
+  m_EditorClassIdentifier: 
+  foodName: "Chicharr\xF3n del chef"
+  foodDescription: "El m\xE1s aclamado chicharr\xF3n del chef su corte jugoso y crocante,\r\n\rViene
+    acompa\xF1ado de dos arepitas con chicharr\xF3n y dos mazorcas al estilo Pigasus."
+  foodPrice: 27500
+  url: https://pigasus.com.co/producto/chicharron-del-chef/

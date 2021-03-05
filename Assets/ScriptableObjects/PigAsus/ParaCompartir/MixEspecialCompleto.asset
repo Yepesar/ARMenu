@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
+  m_Name: MixEspecialCompleto
+  m_EditorClassIdentifier: 
+  foodName: Mix especial completo
+  foodDescription: "Mix especial completo \u2013 5 a 6 personas\n1 Media punta de
+    anca\n1 chicharr\xF3n del chef\n6 chicharr\xF3n wings en\nnuestra salsa\n6 chicharr\xF3n
+    wings\noriginales\n2 papas casco\n2 papas a la francesa\n4 arepas\n4 mazorcas\n5
+    queso papialpa"
+  foodPrice: 140000
+  url: https://pigasus.com.co/producto/mix-especial-completo/
