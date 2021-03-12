@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: Chicken wings x12
   foodDescription: "12 chicken wings +\r\n2 raciones de papas +\r\nzanahoria y apio
     +\r\nsalsa de queso azul +\r\nla salsa de tu elecci\xF3n."
-  foodPrice: 36000
+  foodPrice: $36.000
   url: https://pigasus.com.co/producto/chicken-wings-x12/

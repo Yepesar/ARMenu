@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: MixPigasus
   foodDescription: "6 chicharr\xF3n wings + 12 chicken wings +\r\n3 raciones de papas
     + 4 mazorcas +\r\nqueso papialpa + salsa de queso azul +\r\nzanahoria y apio."
-  foodPrice: 74000
+  foodPrice: $74.000
   url: https://pigasus.com.co/producto/mix-pigasus/

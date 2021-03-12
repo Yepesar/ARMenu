@@ -16,5 +16,5 @@ MonoBehaviour:
   foodDescription: "Pan artesanal de queso parmesano +\r\npollo crispy + queso papialpa
     asado+\r\ntomate asado+ albahaca + tocineta\r\ncrujiente y alioli de ajo acompa\xF1ado
     con\r\npapas de su elecci\xF3n + una chicken wing\r\ncon salsa a su elecci\xF3n."
-  foodPrice: 26900
+  foodPrice: $26.900
   url: https://pigasus.com.co/producto/fly-burger/

@@ -6,8 +6,8 @@ using UnityEngine;
 public class SO_Food : ScriptableObject
 {
     public string foodName;
-    [TextArea]
+    [TextArea(5,25)]
     public string foodDescription;
-    public int foodPrice;
+    public string foodPrice;
     public string url;
 }

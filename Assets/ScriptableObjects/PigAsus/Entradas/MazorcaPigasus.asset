@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: Mazorcas Pigasus
   foodDescription: "4 deliciosas mazorcas ba\xF1adas en\r\ncrema agria, queso coste\xF1oy
     tajin"
-  foodPrice: 14000
+  foodPrice: $14.000
   url: https://pigasus.com.co/producto/mazorcas-pigasus/

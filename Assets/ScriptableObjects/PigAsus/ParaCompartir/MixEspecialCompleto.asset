@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: MixEspecialCompleto
   m_EditorClassIdentifier: 
   foodName: Mix especial completo
-  foodDescription: "Mix especial completo \u2013 5 a 6 personas\n1 Media punta de
-    anca\n1 chicharr\xF3n del chef\n6 chicharr\xF3n wings en\nnuestra salsa\n6 chicharr\xF3n
-    wings\noriginales\n2 papas casco\n2 papas a la francesa\n4 arepas\n4 mazorcas\n5
-    queso papialpa"
-  foodPrice: 140000
+  foodDescription: "Mix especial completo \u2013 5 a 6 personas\r\n\r\n1 Media punta
+    de anca\r\n1 chicharr\xF3n del chef\r\n6 chicharr\xF3n wings en\r\nnuestra salsa\r\n6
+    chicharr\xF3n wings\r\noriginales\r\n2 papas casco\r\n2 papas a la francesa\r\n4
+    arepas\r\n4 mazorcas\r\n5 queso papialpa"
+  foodPrice: $140.000
   url: https://pigasus.com.co/producto/mix-especial-completo/

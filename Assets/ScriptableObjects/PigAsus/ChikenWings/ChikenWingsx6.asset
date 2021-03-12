@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ChikenWingsx6
   m_EditorClassIdentifier: 
   foodName: Chicken wings x6
-  foodDescription: "6 chicken wings + 1 raci\xF3n de\r\npapas + zanahoria y apio +\r\nsalsa
-    de queso azul + salsa\r\nde tu elecci\xF3n"
-  foodPrice: 19400
+  foodDescription: "6 chicken wings + 1 raci\xF3n de\r\npapas + zanahoria y apio
+    +\r\nsalsa de queso azul + salsa\r\nde tu elecci\xF3n"
+  foodPrice: $19.400
   url: https://pigasus.com.co/producto/chicken-wings-x6/

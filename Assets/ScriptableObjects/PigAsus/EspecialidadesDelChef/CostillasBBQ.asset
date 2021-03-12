@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: Costillas BBQ
   foodDescription: "M\xE1s de 400gr de costillas\r\nde cerdo ba\xF1adas en\r\nsalsa
     BBQ de la casa +\r\n1 raci\xF3n de papas +\r\nsalsa de queso azul"
-  foodPrice: 31000
+  foodPrice: $31.000
   url: https://pigasus.com.co/producto/costillas-bbq/

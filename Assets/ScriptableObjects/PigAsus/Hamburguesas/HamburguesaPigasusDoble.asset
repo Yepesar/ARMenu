@@ -16,5 +16,5 @@ MonoBehaviour:
   foodDescription: "Pan artesanal con queso parmesano +\r\ndoble carne de 166gr de
     res y cerdo +\r\n100gr de chicharr\xF3n ba\xF1ado en nuestra\r\nsalsa de la casa
     + doble queso cheddar."
-  foodPrice: 28000
+  foodPrice: $28.000
   url: https://pigasus.com.co/producto/hamburguesa-pigasus-doble/

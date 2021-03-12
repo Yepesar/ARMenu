@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
+  m_Name: SuperComboChicharronwingsx24
+  m_EditorClassIdentifier: 
+  foodName: "Super combo Chicharr\xF3n wings x24"
+  foodDescription: "24 chicharr\xF3n wings ba\xF1adas en BBQ de la casa\r\n+ 4 raciones
+    de papas + 4 mazorcas +\r\nqueso papialpa + salsa de queso azul +\r\nzanahoria
+    y apio."
+  foodPrice: $98.000
+  url: https://pigasus.com.co/producto/super-combo-chicharron-wings-x24/

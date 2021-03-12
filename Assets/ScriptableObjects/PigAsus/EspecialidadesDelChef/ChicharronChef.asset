@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: "Chicharr\xF3n del chef"
   foodDescription: "El m\xE1s aclamado chicharr\xF3n del chef su corte jugoso y crocante,\r\n\rViene
     acompa\xF1ado de dos arepitas con chicharr\xF3n y dos mazorcas al estilo Pigasus."
-  foodPrice: 27500
+  foodPrice: $27.500
   url: https://pigasus.com.co/producto/chicharron-del-chef/

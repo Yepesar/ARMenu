@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: QuesoPapasFly
   m_EditorClassIdentifier: 
   foodName: Queso Papialpa Fly
-  foodDescription: Dedos de queso papialpa fritos con nuestra deliciosa salsa de
-    chili dulce.
-  foodPrice: 14000
+  foodDescription: "Dedos de queso papialpa \nfritos con nuestra deliciosa\n salsa
+    de chili dulce."
+  foodPrice: $14.000
   url: https://pigasus.com.co/producto/queso-papialpa-fly/

@@ -16,5 +16,5 @@ MonoBehaviour:
   foodDescription: "Pan artesanal con queso parmesano\r\n+ carne de 166 gr de res
     y cerdo +\r\n100gr de crujiente chicharr\xF3n ba\xF1ado\r\nen nuestra salsa de
     la casa +\r\nqueso cheddar.\r\n\r\n"
-  foodPrice: 21000
+  foodPrice: $21.000
   url: https://pigasus.com.co/producto/hamburguesa-pigasus/

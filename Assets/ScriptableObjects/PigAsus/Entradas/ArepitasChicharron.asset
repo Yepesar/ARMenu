@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ArepitasChicharron
   m_EditorClassIdentifier: 
   foodName: "Arepitas chicharr\xF3n y Queso"
-  foodDescription: "6 arepitas de chicharron\r\nacompa\xF1adas con sour cream y\r\nqueso
-    blanco."
-  foodPrice: 15000
+  foodDescription: "6 arepitas de chicharron\r \nacompa\xF1adas con sour cream\ny\r
+    queso blanco."
+  foodPrice: $15.000
   url: https://pigasus.com.co/producto/arepitas-de-chicharron/

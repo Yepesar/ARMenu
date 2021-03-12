@@ -15,7 +15,7 @@ MonoBehaviour:
   foodName: Philly Cheese de Cerdo
   foodDescription: "Sub de 20 cms con parmesano,\r\ncerdo desmechado y cocinado\r\npor
     6 horas, cebolla caramelizada,\r\ndoble queso americano,\r\nalioli de ajo , salsa
-    de queso azul,\r\ny en la parte de arriba un jalape\xF1o\r\nrelleno de queso cheddar
-    + Papas\r\na la francesa"
-  foodPrice: 21000
+    de queso azul,\r\ny en la parte de arriba un jalape\xF1o\r\nrelleno de queso
+    cheddar + Papas\r\na la francesa"
+  foodPrice: $21.000
   url: https://pigasus.com.co/producto/philly-cheese/

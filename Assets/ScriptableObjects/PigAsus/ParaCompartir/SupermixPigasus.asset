@@ -16,5 +16,5 @@ MonoBehaviour:
   foodDescription: "12 chicharr\xF3n wings + 12 chicken wings +\r\n2 big alitas de
     cerdo + 4 raciones de papas +\r\n4 mazorcas + queso papialpa + salsa de\r\nqueso
     azul + zanahoria y apio."
-  foodPrice: 117000
+  foodPrice: $117.000
   url: https://pigasus.com.co/producto/super-mix-pigasus/

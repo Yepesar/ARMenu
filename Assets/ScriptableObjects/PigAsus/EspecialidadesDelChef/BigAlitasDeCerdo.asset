@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: Big alita de cerdo
   foodDescription: "Deliciosa carne de cerdo\r\nba\xF1ada en salsa BBQ de la\r\ncasa
     +1 raci\xF3n de papas\r\n+ 2 mazorcas + salsa de\r\nqueso azul"
-  foodPrice: 28000
+  foodPrice: $28.000
   url: https://pigasus.com.co/producto/big-alita-de-cerdo/

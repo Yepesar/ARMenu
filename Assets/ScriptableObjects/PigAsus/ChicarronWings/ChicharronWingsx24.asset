@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: "Chicharr\xF3n Wings x 24"
   foodDescription: "24 chicharron wings\r\nba\xF1adas en BBQ de\r\nla casa + 3 raciones\r\nde
     papas + apio\r\nzanahoria y salsa de\r\nqueso azul."
-  foodPrice: 79000
+  foodPrice: $79.000
   url: https://pigasus.com.co/producto/chicharron-wings-x-24/

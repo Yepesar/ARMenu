@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: "Men\xFA Infantil"
   foodDescription: "6 deditos de pollo (100% pechuga)\r\nacompa\xF1ados con papas
     a la francesa + jugo de cajita"
-  foodPrice: 17000
+  foodPrice: $17.000
   url: https://pigasus.com.co/producto/happygasus/

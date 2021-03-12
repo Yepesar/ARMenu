@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e4c81e0543cbc6478295ff5d9735021, type: 3}
   m_Name: MixEspecialMedio
   m_EditorClassIdentifier: 
-  foodName: "Mix especial medio \u2013 2 personas"
+  foodName: 'Mix especial medio '
   foodDescription: "1 chicharr\xF3n del chef\r\n\r6 chicharr\xF3n wings pigasus\r\n\r2
     mazorcas pigasus\r\n\r3 arepitas con chicharr\xF3n\r\n\r5 quesos papialpa\r\n\r1
     papa casco\r\n\r1 papa francesa"
-  foodPrice: 69000
+  foodPrice: $69.000
   url: https://pigasus.com.co/producto/mix-especial-medio-2-personas/

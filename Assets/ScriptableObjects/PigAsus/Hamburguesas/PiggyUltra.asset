@@ -15,8 +15,8 @@ MonoBehaviour:
   foodName: Piggy Ultra
   foodDescription: "Nuestro pan artesanal de parmesano,\r\ncarne de 166 gr , doble
     queso cheddar ,\r\npulled pork, chicharrones crujientes ba\xF1ados en bbq , cogollo
-    europeo , tomate,\r\ncebolla crujientes, nuestra exquisita salsa\r\nde ajo y salsa
-    d queso azul y en la Corona\r\nnuestro aclamado chicharron wings +\r\npapas a
-    elecci\xF3n"
-  foodPrice: 29000
+    europeo , tomate,\r\ncebolla crujientes, nuestra exquisita salsa\r\nde ajo y
+    salsa d queso azul y en la Corona\r\nnuestro aclamado chicharron wings +\r\npapas
+    a elecci\xF3n"
+  foodPrice: $29.000
   url: https://pigasus.com.co/producto/piggy-ultra/

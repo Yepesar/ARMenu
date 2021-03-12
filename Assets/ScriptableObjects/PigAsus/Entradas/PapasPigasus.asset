@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PapasPigasus
   m_EditorClassIdentifier: 
   foodName: Papas Pigasus
-  foodDescription: "Nuestras deliciosas papas cascos +\r\ncrujientes trozos de chicharr\xF3n
-    +\r\nsalsa de alioli de ajo y chipotle."
-  foodPrice: 17000
+  foodDescription: "Deliciosas papas cascos cargadas de sabor \nlistas para deleitar
+    tu paladar\n \n"
+  foodPrice: $17.000
   url: https://pigasus.com.co/producto/papas-pigasus/

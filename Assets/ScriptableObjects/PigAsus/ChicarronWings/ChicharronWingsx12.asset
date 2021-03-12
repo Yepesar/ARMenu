@@ -16,5 +16,5 @@ MonoBehaviour:
   foodDescription: "12 chicharr\xF3n wings ba\xF1adas en BBQ de la casa\r\n+ 2 raciones
     de papas + 2 mazorcas +\r\nqueso papialpa + salsa de queso azul +\r\nzanahoria
     y apio."
-  foodPrice: 55000
+  foodPrice: $55.000
   url: https://pigasus.com.co/producto/super-combo-chicharron-wings-x-12/

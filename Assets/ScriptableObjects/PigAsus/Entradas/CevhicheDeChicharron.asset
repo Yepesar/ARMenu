@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: CevhicheDeChicharron
   m_EditorClassIdentifier: 
   foodName: "Cevhiche de chicharr\xF3n"
-  foodDescription: "Chicharrones delgados y crujientes,acompa\xF1ados con arepitas
+  foodDescription: "Chicharrones delgados \ny crujientes, acompa\xF1ados \ncon arepitas
     con chicharr\xF3n."
-  foodPrice: 17000
+  foodPrice: $17.000
   url: https://pigasus.com.co/producto/ceviche-chicharron/

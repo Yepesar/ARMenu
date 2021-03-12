@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: Chicken wings x24
   foodDescription: "24 chicken wings\r\n+ 3 raciones\r\nde papas + apio\r\ny zanahoria
     + salsa de\r\nqueso azul + la salsa\r\nde tu elecci\xF3n."
-  foodPrice: 62000
+  foodPrice: $62.000
   url: https://pigasus.com.co/producto/chicken-wings-x24/

@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: ExoticBurger
   m_EditorClassIdentifier: 
   foodName: Exotic Burger
-  foodDescription: "Pan artesanal de parmesano Carne de 166 gr ,\runa big alita de
-    cerdo de de aprox 200 gr ba\xF1ada en bbq y parrillada,\r4 quesos cheddar,  salsa
-    chipotle y en el tope el espectacular chicharr\xF3n ba\xF1ado en chile dulce,\racompa\xF1ado
-    de papas a elecci\xF3n"
-  foodPrice: 31000
+  foodDescription: "Pan artesanal de parmesano Carne de 166 gr ,\r\n\runa big alita
+    de cerdo de de aprox 200 gr ba\xF1ada en bbq y parrillada,\r\n\r\n4 quesos cheddar, 
+    salsa chipotle y en el tope el espectacular chicharr\xF3n ba\xF1ado en chile
+    dulce,\r\nacompa\xF1ado de papas a elecci\xF3n"
+  foodPrice: $31.000
   url: https://pigasus.com.co/producto/exotic-burger/

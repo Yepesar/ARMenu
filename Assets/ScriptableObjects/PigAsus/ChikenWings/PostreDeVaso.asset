@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: Postres de vaso
   foodDescription: "Delicioso y suave, pidelo de arequipe, cheesecake, chocolate, 
     frutos rojos, Milo, Napole\xF3n, Oreo, Tiramis\xFA"
-  foodPrice: 9000
+  foodPrice: $9.000
   url: https://pigasus.com.co/producto/postres-de-vaso/

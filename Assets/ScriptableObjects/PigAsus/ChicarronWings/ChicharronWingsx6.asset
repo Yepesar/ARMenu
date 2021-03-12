@@ -15,5 +15,5 @@ MonoBehaviour:
   foodName: "Chicharr\xF3n Wings x 6"
   foodDescription: "6 chicharr\xF3n wings ba\xF1adas en\r\nBBQ de la casa + 1 raci\xF3n
     de\r\npapas + zanahoria y apio +\r\nsalsa de queso azul."
-  foodPrice: 23900
+  foodPrice: $23.900
   url: https://pigasus.com.co/producto/chicharron-wings-x-6/

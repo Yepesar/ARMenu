@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: AritosDeCebolla
   m_EditorClassIdentifier: 
   foodName: Aritos de cebolla
-  foodDescription: "Crujientes aros de cebolla tempura\r\nartesanalesal mejor estilo
-    Pigasus."
-  foodPrice: 12000
+  foodDescription: 'Crujientes aros de cebolla tempura
+
+    artesanalesal mejor
+    estilo Pigasus.'
+  foodPrice: $12.000
   url: https://pigasus.com.co/producto/aritos-de-cebolla/

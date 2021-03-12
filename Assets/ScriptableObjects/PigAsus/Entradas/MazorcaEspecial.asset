@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   foodName: Mazorca Especial
   foodDescription: "2 deliciosas mazorcas + ma\xEDz\r\ndesgranado + crujiente chicharr\xF3n,\r\nba\xF1ados
-    en salsa de crema agria,\r\nqueso coste\xF1o y tajin"
-  foodPrice: 17000
+    en salsa de crema agria,\r\nqueso coste\xF1o y tajin."
+  foodPrice: $17.000
   url: https://pigasus.com.co/producto/mazorca-especial/

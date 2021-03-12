@@ -13,8 +13,9 @@ MonoBehaviour:
   m_Name: DoblePigBurger
   m_EditorClassIdentifier: 
   foodName: Doble Pig Burger
-  foodDescription: "Nuestro pan artesanal de parmesano,\r\ndoble carne de 166 gr cada
-    una,\r\ndoble queso cheddar , doble tocineta,\r\nnuestra exquisita salsa de ajo,\r\nen
-    la parte de arriba philadelphia\r\nenvuelta en tocineta, con papas a\r\nelecci\xF3n."
-  foodPrice: 25000
+  foodDescription: "Nuestro pan artesanal de parmesano,\r\ndoble carne de 166 gr
+    cada una,\r\ndoble queso cheddar , doble tocineta,\r\nnuestra exquisita salsa
+    de ajo,\r\nen la parte de arriba philadelphia\r\nenvuelta en tocineta, con papas
+    a\r\nelecci\xF3n."
+  foodPrice: $25.000
   url: https://pigasus.com.co/producto/doble-pig-burger/
