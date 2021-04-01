@@ -4,15 +4,22 @@ using UnityEngine;
 
 public class TogleObjects : MonoBehaviour
 {
-    [SerializeField] private GameObject[] objs;
+    [SerializeField] private GameObject[] descriptionObjs;
+    [SerializeField] private GameObject[] imgObjs;
+
     [SerializeField] private GameObject togleOnButton;
     [SerializeField] private GameObject togleOffButton;
 
     public void Togle(bool on)
     {
-        for (int i = 0; i < objs.Length; i++)
+        for (int i = 0; i < descriptionObjs.Length; i++)
         {
-            objs[i].SetActive(on);
+            descriptionObjs[i].SetActive(on);
+        }
+
+        for (int i = 0; i < imgObjs.Length; i++)
+        {
+            imgObjs[i].SetActive(!on);
         }
 
         if (on)
