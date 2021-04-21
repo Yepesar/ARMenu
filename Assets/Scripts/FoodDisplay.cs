@@ -6,6 +6,9 @@ using UnityEngine;
 
 public class FoodDisplay : MonoBehaviour
 {
+    [SerializeField] private float maxSwipeTime;
+    [SerializeField] private float minSwupeDistance;
+    [Space]
     [SerializeField] private TextMeshProUGUI foodTitle;
     [SerializeField] private TextMeshProUGUI foodDescription;
     [SerializeField] private TextMeshProUGUI foodPrice;
@@ -30,11 +33,70 @@ public class FoodDisplay : MonoBehaviour
     private int index = 0;
     private SO_Food[] foodInfos;
 
+    private float swipeStartTime;
+    private float swipeEndTime;
+    private Vector2 startSwipePosition;
+    private Vector2 endSwipePosition;
+    private float swipeTime;
+    private float swipeLenght;
+    
+
     private void Start()
     {
         foodInfos = foodInfosCat1;
         foodModels = foodModelsCat1;
         Display();
+    }
+
+    private void Update()
+    {
+        Swipe();
+    }
+
+    private void Swipe()
+    {
+        if (Input.touchCount == 1)
+        {
+            Touch touch = Input.GetTouch(0);
+
+            if (touch.phase == TouchPhase.Began)
+            {
+                swipeStartTime = Time.deltaTime;
+                startSwipePosition = touch.position;
+            }
+            else if (touch.phase == TouchPhase.Ended)
+            {
+                swipeEndTime = Time.deltaTime;
+                endSwipePosition = touch.position;
+                swipeTime = swipeEndTime - swipeStartTime;
+                swipeLenght = (endSwipePosition - startSwipePosition).magnitude;
+
+                if (swipeTime<maxSwipeTime && swipeLenght > minSwupeDistance)
+                {
+                    SwipeControl();
+                }
+            }
+        }
+    }
+
+    private void SwipeControl()
+    {        
+        Vector2 distance = endSwipePosition - startSwipePosition;
+        float xDistance = Mathf.Abs(distance.x);
+        float yDistance = Mathf.Abs(distance.y);
+
+        if (xDistance > yDistance) // Horizontal swipe
+        {
+            if (distance.x > 0) 
+            {
+                Prev();
+            }
+            else if (distance.x < 0)
+            {
+                Next();
+            }
+        }
+
     }
 
     public void ChangeCategory()
